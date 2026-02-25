@@ -39,6 +39,7 @@
     {"id":{"name":"rm_jogo","path":"rooms/rm_jogo/rm_jogo.yy",},},
     {"id":{"name":"spr_bg_agua","path":"sprites/spr_bg_agua/spr_bg_agua.yy",},},
     {"id":{"name":"spr_bg_arvores","path":"sprites/spr_bg_arvores/spr_bg_arvores.yy",},},
+    {"id":{"name":"spr_bg_lua","path":"sprites/spr_bg_lua/spr_bg_lua.yy",},},
     {"id":{"name":"spr_bg_reflexo_arvores","path":"sprites/spr_bg_reflexo_arvores/spr_bg_reflexo_arvores.yy",},},
     {"id":{"name":"spr_bg_reflexo_lua","path":"sprites/spr_bg_reflexo_lua/spr_bg_reflexo_lua.yy",},},
     {"id":{"name":"spr_bg_reflexo_nuvens","path":"sprites/spr_bg_reflexo_nuvens/spr_bg_reflexo_nuvens.yy",},},
