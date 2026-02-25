@@ -1,4 +1,6 @@
 
+if global.perdeu exit;
+
 if image_index >= 1 exit;
 
 vspeed = -5;
