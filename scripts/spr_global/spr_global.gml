@@ -2,6 +2,7 @@
 #region variables
 
 global.perdeu = false;
+global.pontos = 0;
 
 #endregion
 
@@ -22,6 +23,8 @@ function perde_jogo()
 		layer_hspeed("bg_reflexo_nuvens",0);
 
 		alarm[0] = game_get_speed(gamespeed_fps);	
+		
+		global.pontos = 0;
 	
 }
 
